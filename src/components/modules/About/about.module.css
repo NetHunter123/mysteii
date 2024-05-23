@@ -1,0 +1,11 @@
+.about {
+    //background-image: url(/bg.png);
+    //background-size: cover;
+    //background-repeat: no-repeat;
+    //background-position: center;
+
+    &__desc {
+        font-size: 21px;
+        line-height: 1.5;
+    }
+}

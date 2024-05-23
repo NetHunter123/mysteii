@@ -1,0 +1,41 @@
+.contact_me {
+    &__title {
+        font-size: 40px;
+        text-transform: uppercase;
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    &__sub_title {
+        text-align: center;
+        font-size: 23px;
+        margin-bottom: 50px;
+
+        & span {
+            color: #ffcf00;
+        }
+    }
+
+    &__btn {
+        display: block;
+        padding: 8px 25px;
+        background: linear-gradient(0deg, rgba(7, 61, 14, 1) 0%, rgba(50, 196, 36, 1) 100%);
+        animation: whatsapp_offer 2s infinite;
+        border-radius: 15px;
+        width: fit-content;
+        margin: 0 auto;
+        font-size: 23px;
+    }
+
+    @keyframes whatsapp_offer {
+        0% {
+            box-shadow: 0 0 20px 3px #21c741;
+        }
+        50% {
+            box-shadow: 0 0 20px 5px #1fd943;
+        }
+        100% {
+            box-shadow: 0 0 20px 3px #21c741;
+        }
+    }
+}

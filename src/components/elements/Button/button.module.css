@@ -1,0 +1,15 @@
+.btn{
+    display: block;
+    background-image: url("/gold.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 9px 25px;
+    width: fit-content;
+    margin: 0 auto;
+    border-radius: 5px;
+    color: #000;
+    font-size: 23px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
