@@ -40,6 +40,10 @@ body {
     padding: 90px 10px;
     border-bottom: 27px solid #290e0c;
     border-image: url(/border.png) 27 round round;
+
+    @media screen and (max-width: 900px) {
+        padding: 40px 10px;
+    }
 }
 .container-c{
     margin: 0 auto;
