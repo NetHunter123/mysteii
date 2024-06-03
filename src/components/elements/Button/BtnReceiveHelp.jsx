@@ -4,7 +4,7 @@ import {Button} from "@mantine/core";
 
 const BtnReceiveHelp = ({children}) => {
 	return (
-		<a href="#" className={` ${styles.btn}`}>Получить помощь</a>
+		<a href="https://wa.me/77072291099" className={` ${styles.btn}`}>Получить помощь</a>
 	);
 };
 
