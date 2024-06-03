@@ -46,9 +46,7 @@ const Reviews = () => {
 			</div>
 			
 			<BtnReceiveHelp/>
-			<p className={styles.reviews__remark}>* Результат может отличаться в каждом индивидуальном (отдельном) случае
 			
-			</p>
 		</section>
 	);
 };

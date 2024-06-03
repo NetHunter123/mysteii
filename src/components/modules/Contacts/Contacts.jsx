@@ -10,10 +10,10 @@ const Contacts = () => {
 				<Title title="Мои контакты"/>
 				<p className={styles.contacts__decs}>Вы можете обращаться ко мне в любое время. Я всегда на связи. Звоните или
 					пишите.</p>
-				<a href="tel:992232444123" className={`filled ${styles.contacts__phone}`}><FaPhoneVolume/>
-					+9 922 324-44-13</a>
+				<a href="#" className={`filled ${styles.contacts__phone}`}><FaPhoneVolume/>
+					+7 707-229-1099 <sub style={{fontSize: "70%"}}>(whatsapp)</sub></a>
 				<a href="#" className={`${styles.contacts__wapp}`}><FaWhatsapp/>
-					Написать в WhatsApp</a>
+					Звоните или пишите мне в ВОТСАП</a>
 			</div>
 		</section>
 	);

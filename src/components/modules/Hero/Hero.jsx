@@ -14,10 +14,10 @@ const Hero = () => {
 					</p>
 					<p className={styles.hero__desc}>В своей практике использую различные старинные и авторские обряды и ритуалы.
 						Веду личный прием и онлайн.
-						Работаю по всему Казахстану. Обращайтесь в любое время</p>
+						Работаю по всему Казахстану. Обращайтесь в любое время (ОБЩАЮСЬ ТОЛЬКО В ВОТСАП)</p>
 					<div className={styles.hero__decor}></div>
-					<a href="tel:992232444123" className={`filled ${styles.hero__phone}`}><FaPhoneVolume/>
-						+9 922 324-44-13</a>
+					<a href="tel:77072291099" className={`filled ${styles.hero__phone}`}><FaPhoneVolume/>
+						+7 707-229-1099 <sub style={{fontSize:"70%"}}>(whatsapp)</sub></a>
 					<a href="#" className={`${styles.hero__wapp}`}><FaWhatsapp />
 						Написать в WhatsApp</a>
 					

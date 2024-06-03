@@ -109,7 +109,6 @@ const Services = () => {
 					})}
 				</ul>
 				
-				<p className={styles.services__info}>* Результат может отличаться в каждом индивидуальном (отдельном) случае</p>
 			</div>
 		</section>
 	);
