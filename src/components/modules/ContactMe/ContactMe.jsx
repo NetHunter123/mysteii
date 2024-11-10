@@ -11,7 +11,7 @@ const ContactMe = () => {
 			<p className={styles.contact_me__sub_title}>Получите <span>консультацию от меня.</span> Просто нажмите на кнопку
 				WhatsApp.</p>
 			
-			<a href="#" className={styles.contact_me__btn}>WhatsApp</a>
+			<a href="https://wa.me/77002195257" className={styles.contact_me__btn}>WhatsApp</a>
 		</section>
 	);
 };
